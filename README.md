@@ -101,7 +101,7 @@ docker build --progress=plain --tag laravel .
 docker run --interactive --tty laravel
 ```
 
-Логи выводится на экран и в файл `storage/logs/laravel.log` в контейнере
+Логи выводятся на экран и в файл `storage/logs/laravel.log` в контейнере
 
 ## Ключевые моменты
 
