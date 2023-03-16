@@ -1,5 +1,5 @@
 {
-    "name": "carma8demo/laravel",
+    "name": "karma8demo/laravel",
     "type": "project",
     "require": {
         "php": "^8.2",
